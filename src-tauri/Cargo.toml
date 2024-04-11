@@ -1,9 +1,9 @@
 [package]
-name = "krampui"
+name = "desiredware"
 version = "2.0.0"
-authors = ["BitdancerStudios"]
+authors = ["desired"]
 license = "MIT"
-edition = "2021"
+edition = "2024"
 
 [build-dependencies]
 tauri-build = { version = "1", features = [] }

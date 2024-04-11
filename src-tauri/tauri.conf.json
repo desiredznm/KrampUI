@@ -7,7 +7,7 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "KrampUI"
+    "productName": "DesiredWare"
   },
   "tauri": {
     "allowlist": {
@@ -22,7 +22,7 @@
     },
     "windows": [
       {
-        "title": "KrampUI",
+        "title": "DesiredWare",
         "minWidth": 400,
         "minHeight": 200,
         "width": 650,
@@ -42,11 +42,11 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "KrampUI-Rewrite",
-      "publisher": "BitdancerStudios",
+      "identifier": "DesiredWare",
+      "publisher": "Desired",
       "category": "Utility",
-      "copyright": "Copyright @ 2024 BitdancerStudios",
-      "longDescription": "Simple and lightweight frontend for Ro-Exec.",
+      "copyright": "nil",
+      "longDescription": "DesiredWare 2024",
       "icon": ["./icons/icon.ico"]
     },
     "systemTray": {
